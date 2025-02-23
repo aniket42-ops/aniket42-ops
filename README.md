@@ -1,6 +1,6 @@
 - 👋 Salut, I’m @aniket kumar
-- 👀 I’m interested in website designing
-- 🌱 I’m currently learning python
+- 👀 I’m senior associate software developer
+- 🌱 I’m currently into Shopify
 - ❤️ I'm passionated for photography
 - 📫 To collab with me you can mail me at kumaraniket290@gmail.com
 
